@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.zarr
+.next/
+node_modules/
+.git-ds/

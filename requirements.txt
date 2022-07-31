@@ -1,0 +1,8 @@
+ndpyramid
+carbonplan_data
+s3fs
+boto3
+matplotlib
+dask
+intake
+rioxarray

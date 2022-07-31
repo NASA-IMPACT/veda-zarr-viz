@@ -1,0 +1,30 @@
+{
+  "name": "simple-map-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://abarciauskas-bgse.github.io/simple-imerg-zarr-demo",
+  "scripts": {
+    "dev": "NODE_OPTIONS='--inspect' NODE_ENV=development next dev",
+    "build": "next build",
+    "format": "prettier --write pages/**/*.js",
+    "predeploy": "npm run build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@carbonplan/colormaps": "^2.0.0",
+    "@carbonplan/components": "^10.0.0",
+    "@carbonplan/icons": "^1.0.0",
+    "@carbonplan/maps": "^2.2.0",
+    "@carbonplan/theme": "^7.0.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mdx-js/react": "^1.6.22",
+    "next": "^12.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.13.1"
+  }
+}
