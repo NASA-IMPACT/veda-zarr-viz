@@ -25,4 +25,8 @@ npm i
 npm run dev
 ```
 
+## Deployment
+
+Deploy has been automated with AWS Amplify Hosting: https://main.d2u6db8f1m88nx.amplifyapp.com/
+
 
