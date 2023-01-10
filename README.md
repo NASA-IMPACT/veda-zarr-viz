@@ -29,4 +29,6 @@ npm run dev
 
 Deploy has been automated with AWS Amplify Hosting: https://main.d2u6db8f1m88nx.amplifyapp.com/
 
+## License
 
+This project is licensed under **Apache 2**, see the [LICENSE](LICENSE) file for more details.
